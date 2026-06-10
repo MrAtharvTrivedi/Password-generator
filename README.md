@@ -53,7 +53,7 @@ import string
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/mratharvtrivedi/password-generator.git
 ```
 
 Navigate to the project directory:
